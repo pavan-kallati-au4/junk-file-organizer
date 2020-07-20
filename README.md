@@ -1,6 +1,6 @@
 # Junk File Organizer
 
-The main of the program is when a folder huge number of files and makes life harder to organize the files.Then this program will help to organize the folder on basis of Extension, Size, File created date and File Modified date.
+The main aim of the program is when a folder contains huge number of files and makes life harder to organize the files.Then this program will help to organize the folder on basis of Extension, Size, File created date and File Modified date.
 
 ## How To Use Junk File Organizer
 
